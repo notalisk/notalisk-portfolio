@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+  display: flex;
+  justify-content: center;
+}
+
+.BgImage {
+  width: 100vw;
+  min-width: 800px;
+  position: fixed;
+  left: 0;
+  z-index: -1;
+}
+
+.ContentContainer {
+  background-color: #8E9AAF;
+  width: 88vw;
+  height: 110vh;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
