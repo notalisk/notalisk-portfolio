@@ -3,13 +3,15 @@ import './styles/App.css';
 import Header from './components/Header.js';
 import About from './components/AboutMe';
 
+var page = <About/>;
+
 function App() {
   return (
     <div className="App">
       <img className="BgImage" src={background} alt='beach (background)'></img>
       <div className="ContentContainer">
         <Header/>
-        <About/>
+        {page}
       </div>
     </div>
   );
