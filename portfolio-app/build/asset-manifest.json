@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/notalisk-portfolio/static/css/main.80914683.css",
+    "main.js": "/notalisk-portfolio/static/js/main.68615229.js",
+    "static/js/787.30237536.chunk.js": "/notalisk-portfolio/static/js/787.30237536.chunk.js",
+    "static/media/beach-horizon.jpg": "/notalisk-portfolio/static/media/beach-horizon.93d07a92159bab7647b7.jpg",
+    "static/media/EllenKolblyResume.pdf": "/notalisk-portfolio/static/media/EllenKolblyResume.9be9c9f38d542ee5db50.pdf",
+    "index.html": "/notalisk-portfolio/index.html",
+    "main.80914683.css.map": "/notalisk-portfolio/static/css/main.80914683.css.map",
+    "main.68615229.js.map": "/notalisk-portfolio/static/js/main.68615229.js.map",
+    "787.30237536.chunk.js.map": "/notalisk-portfolio/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80914683.css",
+    "static/js/main.68615229.js"
+  ]
+}
